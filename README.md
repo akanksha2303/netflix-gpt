@@ -2,6 +2,10 @@
 
 - Create React app (npx create-react-app netflix-gpt).
 - Configured Tailwind CSS.
+- Header
+- Login form
+- Signup form
+
 
 
 
